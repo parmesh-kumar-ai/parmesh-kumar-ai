@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I’m Parmesh Kumar  
 
 > *Exploring ideas at the intersection of science, data, and real-world impact. People love to call me "Sheldon Lee Cooper", a fictional character in The Big Bang Theory Series.*
