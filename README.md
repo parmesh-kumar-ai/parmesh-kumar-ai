@@ -46,7 +46,7 @@ I enjoy working on problems where **data meets policy, healthcare, and human beh
 - Turning complex data into clear decisions  
 
 ⚡ **Fun fact:**  
-I love breaking down complex scientific ideas into simple explanations — and I also run a fun science content page purely out of curiosity and creativity 🔬😄
+I love breaking down complex scientific ideas into simple explanations and I also run a fun science content page purely out of curiosity and creativity. 🔬
 
 ---
 
@@ -106,5 +106,5 @@ I love breaking down complex scientific ideas into simple explanations — and I
 ### ✍️ Inspiring Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-> *“Curiosity is not a distraction — it’s the starting point of every meaningful system.”*
+> *“Curiosity is not a distraction. It’s the starting point of every meaningful system.”*
 
