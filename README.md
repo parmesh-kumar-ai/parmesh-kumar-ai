@@ -78,6 +78,7 @@ I love breaking down complex scientific ideas into simple explanations and I als
 
 ### 📈 Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PTableau](https://img.shields.io/badge/Tableau-D9C700?style=for-the-badge&logo=tableau&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F5292A?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
