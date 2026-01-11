@@ -101,6 +101,7 @@ I love breaking down complex scientific ideas into simple explanations and I als
 ![GitHub](https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000C62?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_Powerpoint-FF7600?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 🎧 Audio Engineering & Media Production
