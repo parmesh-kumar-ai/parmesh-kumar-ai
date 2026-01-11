@@ -57,9 +57,6 @@ I love breaking down complex scientific ideas into simple explanations — and I
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parmesh-kumar-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmesh.kumar.ai@gmail.com) 
-
 # 💻 Tech Stack:
 
 ### 🧠 Programming & Data
