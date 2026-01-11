@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I’m Parmesh Kumar  
 
-> *Exploring ideas at the intersection of science, data, and real-world impact.*
+> *Exploring ideas at the intersection of science, data, and real-world impact. People love to call me "Sheldon Lee Cooper", a fictional character in The Bigbang Theory TV Series.*
 
 ---
 
@@ -107,10 +107,3 @@ I love breaking down complex scientific ideas into simple explanations — and I
 
 > *“Curiosity is not a distraction — it’s the starting point of every meaningful system.”*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parmesh-kumar-ai&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=parmesh-kumar-ai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
