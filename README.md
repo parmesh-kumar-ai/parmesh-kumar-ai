@@ -69,6 +69,11 @@ I love breaking down complex scientific ideas into simple explanations and I als
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🔢 Data Science & Statistical Computing Tools
+![Knime](https://img.shields.io/badge/Knime-340458?style=for-the-badge&logo=knime&logoColor=white)
+![JMP (SAS)](https://img.shields.io/badge/JMP(SAS)-958258?style=for-the-badge&logo=jmap(sas)&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/LookerStudio-150458?style=for-the-badge&logo=luckerstudio&logoColor=white)
+
 ### 📊 Analytics & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
