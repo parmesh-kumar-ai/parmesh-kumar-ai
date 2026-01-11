@@ -60,6 +60,71 @@ I love breaking down complex scientific ideas into simple explanations and I als
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.notion.site/Parmesh-Kumar-2d3c2b872d5580eabcfcdc6762079dcf)
 
 ---
+# 💻 Tech Stack:
+
+### 🧠 Programming & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🔢 Data Science & Statistical Computing Tools
+![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)
+![JMP (SAS)](https://img.shields.io/badge/JMP_(SAS)-958258?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 📐 Mathematical & Scientific Computing
+![Wolfram Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge)
+![Maple](https://img.shields.io/badge/Maple-1F4FD8?style=for-the-badge)
+
+---
+
+### 📊 Analytics & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+---
+
+### 📈 Scientific Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-C79400?style=for-the-badge&logo=tableau&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F5292A?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OriginPro](https://img.shields.io/badge/OriginPro-003A8F?style=for-the-badge)
+![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-5C2D91?style=for-the-badge)
+
+---
+
+### ☁️ Platforms & Productivity Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### 🎧 Audio Engineering & Media Production
+![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
+![Sony Sound Forge](https://img.shields.io/badge/Sony_Sound_Forge-000000?style=for-the-badge)
+
+---
+
+### 🎨 Creative & Design
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
 
 # 💻 Tech Stack:
 
