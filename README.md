@@ -87,7 +87,7 @@ I love breaking down complex scientific ideas into simple explanations and I als
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 
-### 📈 Scientific Visualization & BI
+### 📈 Scientific Visualization & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-C79400?style=for-the-badge&logo=tableau&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F5292A?style=for-the-badge)
@@ -98,8 +98,8 @@ I love breaking down complex scientific ideas into simple explanations and I als
 ### ☁️ Platforms & Productivity Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000C62?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
