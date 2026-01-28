@@ -57,7 +57,7 @@ I love breaking down complex scientific ideas into simple explanations and I als
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/parmesh-kumar-ai)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8500-5593)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.notion.site/Parmesh-Kumar-2d3c2b872d5580eabcfcdc6762079dcf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.vercel.app/)
 
 ---
 
