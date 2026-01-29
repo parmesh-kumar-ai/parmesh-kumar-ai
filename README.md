@@ -19,7 +19,7 @@ I enjoy working on problems where **data meets policy, healthcare, and human beh
 
 ---
 
-## 💬 Ask Me About
+## 💬 Fields of Interest
 - Data Analytics & Business Intelligence  
 - Python, SQL, Power BI  
 - Healthcare analytics & public-sector projects  
