@@ -19,26 +19,6 @@ I enjoy working on problems where **data meets policy, healthcare, and human beh
 
 ---
 
-## 🤝 Collaboration & Learning
-
-### 👯 I’m looking to collaborate on
-- Analytics & data science projects  
-- Healthcare & public-sector analytics  
-- Open-source tools for policy, health, and decision systems  
-- AI applications focused on impact rather than hype  
-
-### 🆘 I’m looking for help with
-- Advanced ML deployment  
-- Scalable data pipelines  
-- System design for analytics in public-sector environments  
-
-### 🌱 I’m currently learning
-- Advanced Machine Learning  
-- Data Engineering concepts  
-- AI applications in governance, healthcare & large-scale systems  
-
----
-
 ## 💬 Ask Me About
 - Data Analytics & Business Intelligence  
 - Python, SQL, Power BI  
