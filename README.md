@@ -4,29 +4,16 @@
 
 ---
 
-I am currently working on a **Medical Health Monitoring & Diet Recommendation System**, integrating **early disease prediction** with **personalized dietary guidance** to support preventive and corrective healthcare decisions.
+I am currently working on a **Medical Health Monitoring & Diet Recommendation System**, integrating **early disease prediction** with **personalized dietary guidance** to support preventive and corrective healthcare decisions. I enjoy working on problems where **data meets policy, healthcare, and human behavior**.
 
 Beyond this, my interests span across:
 - 📊 **Data-driven analytics**
-- 📈 **Business intelligence dashboards**
-- 🤖 **Applied AI use-cases**
-- 🏥 **Healthcare & public-sector systems**
-- 🧠 **Decision science and large-scale impact models**
+- 📈 **Business intelligence dashboards with Power BI & Tableau**
+- 🤖 **Applied AI use-cases data processing using Python and SQL**
+- 🏥 **Healthcare analytics & public-sector systems**
+- 🧠 **Decision science and large-scale impact models by turning complex data into clear decisions**
 
-I enjoy working on problems where **data meets policy, healthcare, and human behavior**.
-
-🚀 I actively invite **curious minds, builders, and thinkers** to collaborate and co-create systems that aim for **real-world usefulness, not just theory**.
-
----
-
-## 💬 Fields of Interest
-- Data Analytics & Business Intelligence  
-- Python, SQL, Power BI  
-- Healthcare analytics & public-sector projects  
-- Turning complex data into clear decisions  
-
-⚡ **Fun fact:**  
-I love breaking down complex scientific ideas into simple explanations and I also run a fun science content page purely out of curiosity and creativity. 🔬
+🚀 I love breaking down complex scientific ideas into simple explanations and actively invite **curious minds, builders, and thinkers** to collaborate and co-create systems that aim for **real-world usefulness, not just theory**.
 
 ---
 
