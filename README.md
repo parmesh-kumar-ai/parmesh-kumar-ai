@@ -36,6 +36,12 @@ Beyond this, my interests span across:
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🧠 Frontend Web Development
+![VERCEL](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 🔢 Data Science & Statistical Computing Tools
 ![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)
 ![JMP (SAS)](https://img.shields.io/badge/JMP_(SAS)-958258?style=for-the-badge)
