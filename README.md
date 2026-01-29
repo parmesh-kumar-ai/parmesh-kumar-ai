@@ -36,11 +36,12 @@ Beyond this, my interests span across:
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Frontend Web Development
-![VERCEL](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 Web Development
+![VERCEL](https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=ffdd54)
+![Node.Js](https://img.shields.io/badge/Node.js-025924?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0007C9?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-05B1F5?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5E505?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🔢 Data Science & Statistical Computing Tools
 ![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)
