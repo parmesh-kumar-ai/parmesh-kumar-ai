@@ -106,7 +106,7 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 
  <div align="center">
 
-[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true&custom_title=Parmesh%20Kumar's%20Contribution%20Graph)](https://github.com/parmesh-kumar-ai)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true)](https://github.com/parmesh-kumar-ai)
 
 </td>
 
