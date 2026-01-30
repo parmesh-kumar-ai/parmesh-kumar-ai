@@ -28,7 +28,99 @@ Beyond this, my interests span across:
 
 ---
 
+</div>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 🏥 Advanced AI Medical Diagnosis System
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Advanced-AI-Medical-Diagnosis-System)
+
+An advanced AI-powered medical diagnosis with early disease prediction for 23 diseases with 31 clinical symptoms and personalized dietary recommendations for multiple acute and chronic diseases
+
+---
+
+### 📊 Sentiment SEBI Fraud Risk Dashboard
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
+
+Interactive R Shiny dashboard for corporate fraud risk analysis and sentiment score tracking system
+
+---
+
+### 🎄 Christmas Tree MATLAB Animation
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Christmas-Tree-MATLAB-Animation)
+
+High-quality 3D Christmas animation in MATLAB with fireworks and FullHD export
+
+---
+
+### 🚗 Car Brand Type Classification
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
+
+A Multi-Task Computer Vision model to perform car brand and type classification with bounding boxes method
+
+</div>
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=0506A1&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD000" />
+</p>
+</div>
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=parmesh-kumar-ai&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div>
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
+
+ ## 📊 GitHub Activity Overview
+
+[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true&custom_title=Parmesh%20Kumar's%20Contribution%20Graph)](https://github.com/parmesh-kumar-ai)
+
+</td>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 # 💻 Tech Stack:
+
+</div>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
 
 ### 🧠 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,13 +145,16 @@ Beyond this, my interests span across:
 ![Wolfram Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge)
 ![Maple](https://img.shields.io/badge/Maple-1F4FD8?style=for-the-badge)
 
-### 📊 Analytics & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 🎧 Audio Engineering & Media Production
+![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
+![Sony Sound Forge](https://img.shields.io/badge/Sony_Sound_Forge-000000?style=for-the-badge)
 
+</div>
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
 
 ### 📈 Scientific Visualization & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -68,6 +163,13 @@ Beyond this, my interests span across:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![OriginPro](https://img.shields.io/badge/OriginPro-003A8F?style=for-the-badge)
 ![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-5C2D91?style=for-the-badge)
+
+### 📊 Analytics & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### ☁️ Platforms & Productivity Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -78,37 +180,19 @@ Beyond this, my interests span across:
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_Powerpoint-FF7600?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 🎧 Audio Engineering & Media Production
-![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
-![Sony Sound Forge](https://img.shields.io/badge/Sony_Sound_Forge-000000?style=for-the-badge)
-
 ### 🎨 Creative & Design
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+</td>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parmesh-kumar-ai&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+</tr>
+</table>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 📊 GitHub Activity Overview
-
-[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true&custom_title=Parmesh%20Kumar's%20Contribution%20Graph)](https://github.com/parmesh-kumar-ai)
+</div>
 
 ---
 
