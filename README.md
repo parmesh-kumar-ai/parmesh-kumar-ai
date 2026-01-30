@@ -7,7 +7,6 @@
 I am currently working on a **Medical Health Monitoring & Diet Recommendation System**, integrating **early disease prediction** with **personalized dietary guidance** to support preventive and corrective healthcare decisions.
 
 Beyond this, my interests span across:
-- 📊 **Data-driven analytics**
 - 📈 **Business intelligence dashboards with Power BI & Tableau**
 - 🤖 **Applied AI use-cases data processing using Python and SQL**
 - 🏥 **Healthcare analytics & public-sector systems**
