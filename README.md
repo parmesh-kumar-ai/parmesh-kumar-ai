@@ -101,14 +101,14 @@ Beyond this, my interests span across:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-## 📊 GitHub Activity Graph
-[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&theme=react-dark&hide_border=false&area=true)](https://github.com/parmesh-kumar-ai)
+## 📊 GitHub Activity Overview
+
+[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true&custom_title=Parmesh%20Kumar's%20Contribution%20Graph)](https://github.com/parmesh-kumar-ai)
 
 ---
 
