@@ -35,7 +35,7 @@ Beyond this, my interests span across:
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
-# 🚀 Top 5 Featured Projects
+## 🚀 Top 5 Featured Projects
 
 <div align="center">
 
@@ -77,7 +77,7 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 </p>
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -87,8 +87,12 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 
 <div>
 
+<div align="left">
+  
 ## 🐍 GitHub Contribution Snake
 
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
@@ -96,7 +100,11 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 
 </p>
 
+<div align="left">
+  
  ## 📊 GitHub Activity Overview
+
+ <div align="center">
 
 [![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=0506A1&area=true&hide_border=true&custom_title=Parmesh%20Kumar's%20Contribution%20Graph)](https://github.com/parmesh-kumar-ai)
 
@@ -110,7 +118,7 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 </div>
 
@@ -194,7 +202,7 @@ High-quality 3D Christmas animation in MATLAB with fireworks
 
 ---
 
-### ✍️ Inspiring Quote
+## ✍️ Inspiring Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 > *“Curiosity is not a distraction. It’s the starting point of every meaningful system.”*
