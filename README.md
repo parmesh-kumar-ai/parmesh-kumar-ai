@@ -4,7 +4,7 @@
 
 ---
 
-I am currently working on a **Medical Health Monitoring & Diet Recommendation System**, integrating **early disease prediction** with **personalized dietary guidance** to support preventive and corrective healthcare decisions.
+I am currently working on a **Medical Health Monitoring & Diet Recommendation System**.
 
 Beyond this, my interests span across:
 - 📈 **Business intelligence dashboards with Power BI & Tableau**
@@ -12,7 +12,7 @@ Beyond this, my interests span across:
 - 🏥 **Healthcare analytics & public-sector systems**
 - 🧠 **Decision science and large-scale impact models by turning complex data into clear decisions**
 
-🚀 I love breaking down complex scientific ideas into simple explanations and actively invite **curious minds, builders, and thinkers** to collaborate and co-create systems that aim for **real-world usefulness, not just theory**.
+🚀 I love breaking down complex scientific ideas into simple explanations and actively invite curious minds to collaborate.
 
 ---
 
