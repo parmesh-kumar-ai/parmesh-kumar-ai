@@ -35,35 +35,42 @@ Beyond this, my interests span across:
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
-# 🚀 Featured Projects
+# 🚀 Top 5 Featured Projects
 
 <div align="center">
 
 ### 🏥 Advanced AI Medical Diagnosis System
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Advanced-AI-Medical-Diagnosis-System)
 
-An advanced AI-powered medical diagnosis with early disease prediction for 23 diseases with 31 clinical symptoms and personalized dietary recommendations for multiple acute and chronic diseases
+An advanced AI-powered medical diagnosis and personalized dietary recommendations system
 
 ---
 
 ### 📊 Sentiment SEBI Fraud Risk Dashboard
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
 
-Interactive R Shiny dashboard for corporate fraud risk analysis and sentiment score tracking system
-
----
-
-### 🎄 Christmas Tree MATLAB Animation
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Christmas-Tree-MATLAB-Animation)
-
-High-quality 3D Christmas animation in MATLAB with fireworks and FullHD export
+Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking
 
 ---
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
 
-A Multi-Task Computer Vision model to perform car brand and type classification with bounding boxes method
+Computer Vision model to perform car brand and type classification system
+
+---
+
+### 🪪 Personal Portfolio
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
+
+Portfolio showcasing professional journey featured with dark/light mode, highly responsive design, & interactive UI/UX
+
+---
+
+### 🎄 Christmas Tree MATLAB Animation
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Christmas-Tree-MATLAB-Animation)
+
+High-quality 3D Christmas animation in MATLAB with fireworks
 
 </div>
 
