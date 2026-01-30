@@ -97,6 +97,17 @@ Beyond this, my interests span across:
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/parmesh-kumar-ai/parmesh-kumar-ai/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 GitHub Activity Graph
+[![Parmesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&theme=react-dark&hide_border=false&area=true)](https://github.com/parmesh-kumar-ai)
+
+---
+
 ### ✍️ Inspiring Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
