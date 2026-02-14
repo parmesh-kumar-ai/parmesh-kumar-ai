@@ -4,7 +4,7 @@
 
 ---
 
-I am currently working on a **Medical Health Monitoring & Diet Recommendation System**.
+I am currently working on an **Advanced AI-Driven Medical Health Monitoring & Diet Recommendation System**.
 
 Beyond this, my interests span across:
 - 📈 **Business intelligence dashboards with Power BI & Tableau**
