@@ -44,10 +44,15 @@ Beyond this, my interests span across:
 
 An advanced AI-powered medical diagnosis and personalized dietary recommendations system
 
-### 📊 Sentiment SEBI Fraud Risk Dashboard
+### 🗒️ Sentiment SEBI Fraud Risk Dashboard
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
 
 Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking
+
+### 📊 Job Application Tracker
+[![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/job-application-tracker)
+
+Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS.
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
@@ -59,10 +64,6 @@ Computer Vision model to perform car brand and type classification system
 
 Portfolio showcasing professional journey featured with dark/light mode, highly responsive design, & interactive UI/UX
 
-### 🎄 Christmas Tree MATLAB Animation
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Christmas-Tree-MATLAB-Animation)
-
-High-quality 3D Christmas animation in MATLAB with fireworks
 
 </div>
 
