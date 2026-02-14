@@ -135,11 +135,13 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Web Development
+### 🧠 Web Development & Deployment
 ![VERCEL](https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=ffdd54)
 ![Node.Js](https://img.shields.io/badge/Node.js-025924?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-0007C9?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-05B1F5?style=for-the-badge&logo=css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FA9311?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF4C05?style=for-the-badge&logo=cloudfirestore&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5E505?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🔢 Data Science & Statistical Computing Tools
