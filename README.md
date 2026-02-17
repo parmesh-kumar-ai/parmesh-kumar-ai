@@ -143,6 +143,7 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 ![Firebase](https://img.shields.io/badge/Firebase-FA9311?style=for-the-badge&logo=firebase&logoColor=white)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF4C05?style=for-the-badge&logo=cloudfirestore&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5E505?style=for-the-badge&logo=javascript&logoColor=white)
+![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-6C00CC?style=for-the-badge&logo=vanillajavascript&logoColor=white)
 
 ### 🔢 Data Science & Statistical Computing Tools
 ![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)
