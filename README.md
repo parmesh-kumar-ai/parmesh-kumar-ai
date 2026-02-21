@@ -52,12 +52,12 @@ Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking | [
 ### 🈸 Job Application Tracker
 [![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/job-application-tracker)
 
-Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS | [🔗Live](https://job-application-tracker-5723b.web.app/)
+Cloud-based job application tracking web app with real-time analytics using Firebase and Vanilla JS | [🔗Live](https://job-application-tracker-5723b.web.app/)
 
 ### 📑 Vibrant Resume
 [![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/vibrant-resume)
 
-Advanced AI-based ATS-friendly resume building and optimizing webapp with grammar & Google Drive support | [🔗Live](https://vibrantresume.vercel.app/)
+Advanced AI-based ATS-friendly resume building and optimizing web app with grammar & Google Drive support | [🔗Live](https://vibrantresume.vercel.app/)
 
 
 </div>
@@ -72,22 +72,22 @@ Advanced AI-based ATS-friendly resume building and optimizing webapp with gramma
 ### 🛞 Tyre Inventory Manager
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/tyreinventorymanager)
 
-Streamline automotive inventory (car tyres) management system to track in real-time | [🔗Live](https://tyremanager.vercel.app/)
+Streamline automotive inventory (car tyres) management system for real-time tracking | [🔗Live](https://tyremanager.vercel.app/)
 
 ### 🌐 The Moody Picasso (Website)
 [![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/websitedevelopment)
 
-Designed and deployed a commercial website with modern design & interactive UI/UX to showcase the products | [🔗Live](https://www.themoodypicasso.com/)
+Designed and deployed a commercial website with a modern design & interactive UI/UX to showcase products | [🔗Live](https://www.themoodypicasso.com/)
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
 
-Computer Vision model to perform car brand and type classification system
+Computer Vision model for car brand and type classification
 
 ### 🪪 Personal Portfolio
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
 
-Portfolio showcasing professional journey featured with dark/light mode, highly responsive & interactive UI/UX | [🔗Live](https://parmesh-kumar-ai.vercel.app/)
+Portfolio showcasing professional journey featuring dark/light mode and a highly responsive & interactive UI/UX | [🔗Live](https://parmesh-kumar-ai.vercel.app/)
 
 </div>
 
