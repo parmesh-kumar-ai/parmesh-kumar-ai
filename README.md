@@ -139,9 +139,10 @@ Portfolio showcasing professional journey featuring dark/light mode and a highly
 
 <!-- RIGHT PANEL -->
 <td width="52%" valign="top">
+  
   <!-- Profile Views Counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=000000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
+<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
 </p>
 </div>
 
