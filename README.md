@@ -77,7 +77,7 @@ Streamline automotive inventory (car tyres) management system to track in real-t
 ### 🌐 The Moody Picasso (Website)
 [![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/websitedevelopment)
 
-Designed and deployed an commercial website with modern design & interactive UI/UX to showcase the products | [🔗Live](https://www.themoodypicasso.com/)
+Designed and deployed a commercial website with modern design & interactive UI/UX to showcase the products | [🔗Live](https://www.themoodypicasso.com/)
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
