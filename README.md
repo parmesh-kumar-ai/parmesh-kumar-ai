@@ -261,7 +261,7 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/in/products/illustrator.html)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.in/)
-[![Corel Draw](https://img.shields.io/badge/CorelDraw-00C4CC?style=for-the-badge&logo=coreldraw&logoColor=white)](https://www.coreldraw.com/en/)
+[![Corel Draw](https://img.shields.io/badge/CorelDraw-F57E62?style=for-the-badge&logo=coreldraw&logoColor=white)](https://www.coreldraw.com/en/)
 
 </td>
 
@@ -273,10 +273,14 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 
 ---
 
+<div align="center">
+
 ## ✍️ Inspiring Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 > *“Curiosity is not a distraction. It’s the starting point of every meaningful system.”*
+
+</div>
 
 <!-- 
 ## 🏆 GitHub Trophies
