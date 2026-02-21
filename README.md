@@ -27,7 +27,7 @@ Beyond this, my interests span across:
 
 ---
 
-</div>
+## 🚀 Top Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -35,7 +35,7 @@ Beyond this, my interests span across:
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
-## 🚀 Top 5 Featured Projects
+
 
 <div align="center">
 
@@ -54,15 +54,7 @@ Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking
 
 Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS.
 
-### 🚗 Car Brand Type Classification
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
 
-Computer Vision model to perform car brand and type classification system
-
-### 🪪 Personal Portfolio
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
-
-Portfolio showcasing professional journey featured with dark/light mode, highly responsive design, & interactive UI/UX
 
 
 </div>
@@ -78,7 +70,39 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 </p>
 </div>
 
+<div align="center">
+
+### 🚗 Car Brand Type Classification
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
+
+Computer Vision model to perform car brand and type classification system
+
+### 🪪 Personal Portfolio
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
+
+Portfolio showcasing professional journey featured with dark/light mode, highly responsive design, & interactive UI/UX
+
+</div>
+
+
+</td>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
+
 
 <div align="center">
   
@@ -86,7 +110,39 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 ![](https://nirzak-streak-stats.vercel.app/?user=parmesh-kumar-ai&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
+</div>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages"
+    width="400"
+  />
+</p>
+
+<!-- <p align="center"> -->
+ <!--  <img  -->
+   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
+   <!--  alt="GitHub Conributions" -->
+  <!--   width="400" -->
+<!--   /> -->
+<!-- </p> -->
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
+<p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&label=Profile%20views&color=0e75b6&style=flat" alt="parmesh-kumar-ai" /> 
+    </p>
+
+</div>
+
+<!-- Profile Views Counter -->
+<!-- <p align="center"> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=0506A1&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD000" /> -->
+<!-- </p> -->
+<!-- </div> -->
 
 <div align="left">
   
@@ -108,6 +164,9 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
  <div align="center">
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true)](https://github.com/parmesh-kumar-ai)
+
+</td>
+
 
 </td>
 
