@@ -49,12 +49,15 @@ An advanced AI-powered medical diagnosis and personalized dietary recommendation
 
 Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking
 
-### 📊 Job Application Tracker
+### 🈸 Job Application Tracker
 [![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/job-application-tracker)
 
 Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS.
 
+### 📑 Vibrant Resume
+[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/vibrant-resume)
 
+Advanced AI-based ATS-friendly resume building and optimizing webapp with grammar & Google Drive backup support
 
 
 </div>
@@ -64,13 +67,17 @@ Cloud-based job application tracking webapp with real-time analytics using Fireb
 <!-- RIGHT PANEL -->
 <td width="52%" valign="top">
 
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=0506A1&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD000" />
-</p>
-</div>
-
 <div align="center">
+
+### 🛞 Tyre Inventory Manager
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/tyreinventorymanager)
+
+Streamline automotive inventory (car tyres) management system to track in real-time
+
+### 🌐 The Moody Picasso (Website)
+[![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/websitedevelopment)
+
+Designed and deployed an commercial website with modern design & interactive UI/UX to showcase the products
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
@@ -132,10 +139,10 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 
 <!-- RIGHT PANEL -->
 <td width="52%" valign="top">
-<p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&label=Profile%20views&color=0e75b6&style=flat" alt="parmesh-kumar-ai" /> 
-    </p>
-
+  <!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=3e22ee&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=0506A1" />
+</p>
 </div>
 
 <!-- Profile Views Counter -->
