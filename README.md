@@ -196,34 +196,34 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 <td width="48%" valign="top">
 
 ### 🧠 Programming & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/)
+[![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### 🧠 Web Development & Deployment
-![VERCEL](https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=ffdd54)
-![Node.Js](https://img.shields.io/badge/Node.js-025924?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0007C9?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-05B1F5?style=for-the-badge&logo=css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FA9311?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF4C05?style=for-the-badge&logo=cloudfirestore&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F5E505?style=for-the-badge&logo=javascript&logoColor=white)
-![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-6C00CC?style=for-the-badge&logo=vanillajavascript&logoColor=white)
+[![VERCEL](https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=ffdd54)](https://vercel.com/)
+[![Node.Js](https://img.shields.io/badge/Node.js-025924?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![HTML](https://img.shields.io/badge/HTML-0007C9?style=for-the-badge&logo=html&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05B1F5?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FA9311?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF4C05?style=for-the-badge&logo=cloudfirestore&logoColor=white)](https://firebase.google.com/docs/firestore)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F5E505?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-6C00CC?style=for-the-badge&logo=vanillajavascript&logoColor=white)](http://vanilla-js.com/)
 
 ### 🔢 Data Science & Statistical Computing Tools
-![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)
-![JMP (SAS)](https://img.shields.io/badge/JMP_(SAS)-958258?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![KNIME](https://img.shields.io/badge/KNIME-340458?style=for-the-badge&logo=knime&logoColor=white)](https://www.knime.com/)
+[![JMP (SAS)](https://img.shields.io/badge/JMP_(SAS)-958258?style=for-the-badge)](https://www.jmp.com/en/home)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
 
 ### 📐 Mathematical & Scientific Computing
-![MATLAB](https://img.shields.io/badge/MATLAB-F78707?style=for-the-badge)
-![Wolfram Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge)
-![Maple](https://img.shields.io/badge/Maple-1F4FD8?style=for-the-badge)
+[![MATLAB](https://img.shields.io/badge/MATLAB-F78707?style=for-the-badge)](https://www.mathworks.com/)
+[![Wolfram Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge)](https://www.wolfram.com/mathematica/)
+[![Maple](https://img.shields.io/badge/Maple-1F4FD8?style=for-the-badge)](https://www.maplesoft.com/)
 
 ### 🎧 Audio Engineering & Media Production
-![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)
-![Sony Sound Forge](https://img.shields.io/badge/Sony_Sound_Forge-000000?style=for-the-badge)
+[![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white)](https://www.adobe.com/in/products/audition.html)
+[![Sony Sound Forge](https://img.shields.io/badge/Sony_Sound_Forge-000000?style=for-the-badge)](https://www.sony.co.in/electronics/support/downloads/00015795)
 
 </div>
 
@@ -233,34 +233,35 @@ Portfolio showcasing professional journey featured with dark/light mode, highly 
 <td width="52%" valign="top">
 
 ### 📈 Scientific Visualization & Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-C79400?style=for-the-badge&logo=tableau&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F5292A?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![OriginPro](https://img.shields.io/badge/OriginPro-003A8F?style=for-the-badge)
-![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-5C2D91?style=for-the-badge)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![Tableau](https://img.shields.io/badge/Tableau-C79400?style=for-the-badge&logo=tableau&logoColor=black)](https://www.tableau.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-F5292A?style=for-the-badge)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![OriginPro](https://img.shields.io/badge/OriginPro-003A8F?style=for-the-badge)](https://www.originlab.com/)
+[![GraphPad Prism](https://img.shields.io/badge/GraphPad_Prism-5C2D91?style=for-the-badge)](https://www.graphpad.com/)
 
 ### 📊 Analytics & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
 ### ☁️ Platforms & Productivity Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000C62?style=for-the-badge&logo=notion&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_Powerpoint-FF7600?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Notion](https://img.shields.io/badge/Notion-000C62?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
+[![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_Powerpoint-FF7600?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/powerpoint)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 ### 🎨 Creative & Design
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/in/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/in/products/illustrator.html)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.in/)
+[![Corel Draw](https://img.shields.io/badge/CorelDraw-00C4CC?style=for-the-badge&logo=coreldraw&logoColor=white)](https://www.coreldraw.com/en/)
 
 </td>
 
