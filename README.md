@@ -42,22 +42,22 @@ Beyond this, my interests span across:
 ### 🏥 Advanced AI Medical Diagnosis System
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Advanced-AI-Medical-Diagnosis-System)
 
-An advanced AI-powered medical diagnosis and personalized dietary recommendations system
+An advanced AI-powered medical diagnosis and personalized dietary recommendations system | [🔗Live](https://parmeshkumar.shinyapps.io/AdvancedAIMedicalDiagnosisSystem/)
 
 ### 🗒️ Sentiment SEBI Fraud Risk Dashboard
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
 
-Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking
+Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking | [🔗Live](https://parmeshkumar.shinyapps.io/sentiment-sebi-fraud-dashboard/)
 
 ### 🈸 Job Application Tracker
 [![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/job-application-tracker)
 
-Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS.
+Cloud-based job application tracking webapp with real-time analytics using Firebase and Vanilla JS | [🔗Live](https://job-application-tracker-5723b.web.app/)
 
 ### 📑 Vibrant Resume
 [![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/vibrant-resume)
 
-Advanced AI-based ATS-friendly resume building and optimizing webapp with grammar & Google Drive backup support
+Advanced AI-based ATS-friendly resume building and optimizing webapp with grammar & Google Drive support | [🔗Live](https://vibrantresume.vercel.app/)
 
 
 </div>
