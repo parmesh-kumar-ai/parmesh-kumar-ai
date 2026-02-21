@@ -12,7 +12,7 @@ Beyond this, my interests span across:
 - 🏥 **Healthcare analytics & public-sector systems**
 - 🧠 **Decision science and large-scale impact models by turning complex data into clear decisions**
 
-I cherish breaking down complex scientific ideas into simple explanations and actively invite curious minds to collaborate.
+I cherish breaking down complex scientific ideas into simple explanations and actively engaging with curious minds to collaborate.
 
 ---
 
