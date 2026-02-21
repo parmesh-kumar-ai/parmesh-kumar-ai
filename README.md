@@ -72,12 +72,12 @@ Advanced AI-based ATS-friendly resume building and optimizing webapp with gramma
 ### 🛞 Tyre Inventory Manager
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/tyreinventorymanager)
 
-Streamline automotive inventory (car tyres) management system to track in real-time
+Streamline automotive inventory (car tyres) management system to track in real-time | [🔗Live](https://tyremanager.vercel.app/)
 
 ### 🌐 The Moody Picasso (Website)
 [![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/websitedevelopment)
 
-Designed and deployed an commercial website with modern design & interactive UI/UX to showcase the products
+Designed and deployed an commercial website with modern design & interactive UI/UX to showcase the products | [🔗Live](https://www.themoodypicasso.com/)
 
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
@@ -87,7 +87,7 @@ Computer Vision model to perform car brand and type classification system
 ### 🪪 Personal Portfolio
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
 
-Portfolio showcasing professional journey featured with dark/light mode, highly responsive design, & interactive UI/UX
+Portfolio showcasing professional journey featured with dark/light mode, highly responsive & interactive UI/UX | [🔗Live](https://parmesh-kumar-ai.vercel.app/)
 
 </div>
 
