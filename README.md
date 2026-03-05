@@ -57,7 +57,7 @@ Cloud-based job application tracking web app with real-time analytics using Fire
 ### 📑 Vibrant Resume
 [![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/vibrant-resume)
 
-Advanced AI-based ATS-friendly resume building and optimizing web app with grammar & Google Drive support [🔗Live](https://vibrantresume.vercel.app/)
+Advanced AI-based ATS-friendly resume building and optimizing web app with grammarly & Google Drive [🔗Live](https://vibrantresume.vercel.app/)
 
 
 </div>
