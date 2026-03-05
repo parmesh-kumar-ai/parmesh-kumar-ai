@@ -82,7 +82,7 @@ Designed and deployed a commercial website with a modern design & interactive UI
 ### 🚗 Car Brand Type Classification
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
 
-Computer Vision model for car brand and type classification
+Computer Vision model for car brand and type classification using R-programming language
 
 ### 🪪 Personal Portfolio
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
