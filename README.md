@@ -24,12 +24,15 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/parmesh-kumar-ai)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8500-5593)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
-[![Portfolio](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
-[![Portfolio](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://www.scienceopen.com/user/parmeshkumar)
-[![Portfolio](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarParmesh)
-[![Portfolio](https://img.shields.io/badge/Tumblr-616161?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/parmesh-iitkgp)
-[![Portfolio](https://img.shields.io/badge/Reddit-F76300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/parmesh-kumar-ai/)
+[![ScienceOpen](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
+[![SSRN](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
+[![Notion](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://www.scienceopen.com/user/parmeshkumar)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarParmesh)
+[![Tumblr](https://img.shields.io/badge/Tumblr-616161?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/parmesh-iitkgp)
+[![Reddit](https://img.shields.io/badge/Reddit-F76300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/parmesh-kumar-ai/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-F02D00?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/parmeshkumarai/)
+[![Quora](https://img.shields.io/badge/Quora-9C0000?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Parmesh-Kumar-40)
+[![Discord](https://img.shields.io/badge/Discord-508CD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WsMm6p47A)
 
 ---
 
