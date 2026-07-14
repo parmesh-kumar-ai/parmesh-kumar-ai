@@ -27,6 +27,9 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Portfolio](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
 [![Portfolio](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
 [![Portfolio](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://www.scienceopen.com/user/parmeshkumar)
+[![Portfolio](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarParmesh)
+[![Portfolio](https://img.shields.io/badge/Tumblr-616161?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/parmesh-iitkgp)
+[![Portfolio](https://img.shields.io/badge/Reddit-F76300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/parmesh-kumar-ai/)
 
 ---
 
