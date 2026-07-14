@@ -57,7 +57,7 @@ def digit_svg(digit, ox, oy, w=40, t=9, on_color="#FFD900", off_color="#152047")
     return "\n".join(out)
 
 def build_led_display(number_str, label=LABEL):
-    w, t, h = 40, 9, 45
+    w, t, h = 25, 9, 10
     digit_width = w + 22
     n = len(number_str)
     panel_w = n * digit_width + 50
@@ -71,14 +71,14 @@ def build_led_display(number_str, label=LABEL):
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d1330"/>
-      <stop offset="100%" stop-color="#050814"/>
+      <stop offset="0%" stop-color="#F5F2F2"/>
+      <stop offset="100%" stop-color="#C9C9C9"/>
     </linearGradient>
     '''
 
     return f'''<svg viewBox="0 0 {panel_w} {panel_h}" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
 <defs>{defs}</defs>
-<rect x="0" y="0" width="{panel_w}" height="{panel_h}" rx="14" fill="url(#panelGrad)" stroke="#0506A1" stroke-width="3"/>
+<rect x="0" y="0" width="{panel_w}" height="{panel_h}" rx="14" fill="url(#panelGrad)" stroke="#FFFFFF" stroke-width="3"/>
 <rect x="4" y="4" width="{panel_w-8}" height="{panel_h-8}" rx="10" fill="none" stroke="#FFD900" stroke-width="1" opacity="0.35"/>
 <g filter="url(#ledGlow)">
   <g>
@@ -86,7 +86,7 @@ def build_led_display(number_str, label=LABEL):
     {"".join(digits_svg)}
   </g>
 </g>
-<text x="{panel_w/2}" y="{panel_h-14}" text-anchor="middle" fill="#8da2fb" font-size="13" letter-spacing="3" font-weight="bold">{label}</text>
+<text x="{panel_w/2}" y="{panel_h-14}" text-anchor="middle" fill="#220580" font-size="13" letter-spacing="3" font-weight="bold">{label}</text>
 </svg>'''
 
 if __name__ == "__main__":
