@@ -24,6 +24,9 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/parmesh-kumar-ai)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8500-5593)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
+[![Portfolio](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
+[![Portfolio](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://www.scienceopen.com/user/parmeshkumar)
 
 ---
 
