@@ -27,6 +27,98 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 ---
 
+## 📊 GitHub Stats
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<div align="center">
+
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
+
+
+<div align="center">
+
+[![GitHub Stats](https://stats-card.pages.dev/user?user=parmesh-kumar-ai&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    alt="Top Languages"
+    width="400"
+  />
+</p>
+
+<!-- <p align="center"> -->
+ <!--  <img  -->
+   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
+   <!--  alt="GitHub Conributions" -->
+  <!--   width="400" -->
+<!--   /> -->
+<!-- </p> -->
+
+![]("https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=swift&background=FFFFFF")<br/>
+![](https://streak-stats.demolab.com?user=parmesh-kumar-ai&stroke=0506A1&background=FFFFFF&ring=0506A1&fire=FFD900&hide_border=false)<br/>
+
+
+</div>
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
+  
+  <!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
+</p>
+</div>
+
+<!-- Profile Views Counter -->
+<!-- <p align="center"> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=0506A1&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD000" /> -->
+<!-- </p> -->
+<!-- </div> -->
+
+<div align="left">
+
+
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" />
+
+</div>
+
+---
+
+
+<div align="left">
+  
+ ## 📈 Activity Graph
+
+ <div align="center">
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true)](https://github.com/parmesh-kumar-ai)
+
+</td>
+
+
+</td>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Top Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="0">
@@ -90,108 +182,6 @@ Computer Vision model for car brand and type classification using R-programming 
 Portfolio showcasing professional journey featuring dark/light mode and a highly responsive & interactive UI/UX [🔗Live](https://parmesh-kumar-ai.vercel.app/)
 
 </div>
-
-
-</td>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-
-<div align="center">
-
-
-<!-- LEFT PANEL -->
-<td width="48%" valign="top">
-
-
-<div align="center">
-
-[![GitHub Stats](https://stats-card.pages.dev/user?user=parmesh-kumar-ai&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    alt="Top Languages"
-    width="400"
-  />
-</p>
-
-<!-- <p align="center"> -->
- <!--  <img  -->
-   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
-   <!--  alt="GitHub Conributions" -->
-  <!--   width="400" -->
-<!--   /> -->
-<!-- </p> -->
-
-![]("https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=swift&background=FFFFFF")<br/>
-![](https://streak-stats.demolab.com?user=parmesh-kumar-ai&stroke=0506A1&background=FFFFFF&ring=0506A1&fire=FFD900&hide_border=false)<br/>
-<img width="100%" src="https://streak-stats.demolab.com/?user=parmesh-kumar-ai&background=FFFFFF&stroke=0506A1&ring=0506A1&fire=FFD900" />
-
-</div>
-</td>
-
-<!-- RIGHT PANEL -->
-<td width="52%" valign="top">
-  
-  <!-- Profile Views Counter -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
-</p>
-</div>
-
-<!-- Profile Views Counter -->
-<!-- <p align="center"> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=0506A1&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD000" /> -->
-<!-- </p> -->
-<!-- </div> -->
-
-<div align="left">
-
-
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-
-### 🧊 3D Contribution Calendar
-<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" />
-
-### 🔥 Streak Stats
-<img width="100%" src="https://streak-stats.demolab.com/?user=parmesh-kumar-ai&background=FFFFFF&stroke=0506A1&ring=0506A1&fire=FFD900" />
-
-### 📈 Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=FFD900&area=true&hide_border=true&radius=16" />
-
-<img width="100%" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph" />
-
-</div>
-
----
-
-
-<div align="left">
-  
- ## 📊 GitHub Activity Overview
-
- <div align="center">
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true)](https://github.com/parmesh-kumar-ai)
-
-</td>
 
 
 </td>
