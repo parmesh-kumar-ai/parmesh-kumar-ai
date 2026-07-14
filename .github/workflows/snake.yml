@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: parmesh-kumar-ai
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=%230506A1&color_dots=%23ebedf0,%23c6e48b,%237bc96f,%23239636,%23196f3d
-           dist/github-snake-dark.svg?palette=github-dark&color_snake=%23FFD900&color_dots=%23161b22,%230d4429,%2300661f,%2326a641,%2339d353
+           dist/github-contribution-grid-snake.svg?color_snake=%230506A1&color_dots=%23f3f4f6,%23c7d2fe,%238da2fb,%235469d4,%230506A1 
+           dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD900&color_dots=%23161b22,%230506A1,%235469d4,%238da2fb,%23FFD900
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
