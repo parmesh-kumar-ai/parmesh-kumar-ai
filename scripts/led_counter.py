@@ -40,8 +40,15 @@ DIGIT_SEGMENTS = {
     '8': 'abcdefg', '9': 'abcdfg',
 }
 
-def digit_svg(digit, ox, oy, w=40, t=9, on_color="#FFD900", off_color="#152047"):
-    h = 45
+# --- Reduced-height parameters (width formula unchanged) ---
+W = 40          # digit segment width -- kept same so overall width is unchanged
+T = 6           # segment thickness -- reduced from 9
+H = 22          # half-digit height -- reduced from 45 (roughly half overall height)
+TOP_PAD = 14
+LABEL_H = 22
+LABEL_SIZE = 9
+
+def digit_svg(digit, ox, oy, w=W, t=T, h=H, on_color="#FFD900", off_color="#152047"):
     lit = DIGIT_SEGMENTS.get(digit, '')
     segs = {
         'a': ('h', w / 2, 0), 'f': ('v', 0, h / 2), 'b': ('v', w, h / 2),
@@ -57,17 +64,16 @@ def digit_svg(digit, ox, oy, w=40, t=9, on_color="#FFD900", off_color="#152047")
     return "\n".join(out)
 
 def build_led_display(number_str, label=LABEL):
-    w, t, h = 25, 9, 10
-    digit_width = w
+    digit_width = W + 22
     n = len(number_str)
-    panel_w = n * digit_width
-    panel_h = 2 * h
+    panel_w = n * digit_width + 50
+    panel_h = 2 * H + TOP_PAD + LABEL_H
 
-    digits_svg = [digit_svg(ch, 25 + i * digit_width, 45) for i, ch in enumerate(number_str)]
+    digits_svg = [digit_svg(ch, 25 + i * digit_width, TOP_PAD) for i, ch in enumerate(number_str)]
 
     defs = '''
     <filter id="ledGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
@@ -78,15 +84,15 @@ def build_led_display(number_str, label=LABEL):
 
     return f'''<svg viewBox="0 0 {panel_w} {panel_h}" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
 <defs>{defs}</defs>
-<rect x="0" y="0" width="{panel_w}" height="{panel_h}" rx="14" fill="url(#panelGrad)" stroke="#FFFFFF" stroke-width="3"/>
-<rect x="4" y="4" width="{panel_w-8}" height="{panel_h-8}" rx="10" fill="none" stroke="#FFD900" stroke-width="1" opacity="0.35"/>
+<rect x="0" y="0" width="{panel_w}" height="{panel_h}" rx="10" fill="url(#panelGrad)" stroke="#FFFFFF" stroke-width="2.5"/>
+<rect x="3" y="3" width="{panel_w-6}" height="{panel_h-6}" rx="7" fill="none" stroke="#FFD900" stroke-width="1" opacity="0.35"/>
 <g filter="url(#ledGlow)">
   <g>
     <animate attributeName="opacity" values="1;0.94;1;0.97;1" dur="4s" repeatCount="indefinite"/>
     {"".join(digits_svg)}
   </g>
 </g>
-<text x="{panel_w/2}" y="{panel_h-14}" text-anchor="middle" fill="#220580" font-size="13" letter-spacing="3" font-weight="bold">{label}</text>
+<text x="{panel_w/2}" y="{panel_h-6}" text-anchor="middle" fill="#220580" font-size="{LABEL_SIZE}" letter-spacing="2" font-weight="bold">{label}</text>
 </svg>'''
 
 if __name__ == "__main__":
