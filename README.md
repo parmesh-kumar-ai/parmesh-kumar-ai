@@ -18,6 +18,8 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parmesh-kumar-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmesh.kumar.ai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai)
@@ -33,6 +35,8 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Pinterest](https://img.shields.io/badge/Pinterest-F02D00?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/parmeshkumarai/)
 [![Quora](https://img.shields.io/badge/Quora-9C0000?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Parmesh-Kumar-40)
 [![Discord](https://img.shields.io/badge/Discord-508CD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WsMm6p47A)
+
+<div>
 
 ---
 
