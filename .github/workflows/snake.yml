@@ -16,7 +16,7 @@ jobs:
       
       # Generate the snake
 - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/svg@v3
         with:
           github_user_name: parmesh-kumar-ai
           outputs: |
