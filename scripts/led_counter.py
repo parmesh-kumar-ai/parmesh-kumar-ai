@@ -58,10 +58,10 @@ def digit_svg(digit, ox, oy, w=40, t=9, on_color="#FFD900", off_color="#152047")
 
 def build_led_display(number_str, label=LABEL):
     w, t, h = 25, 9, 10
-    digit_width = w + 22
+    digit_width = w
     n = len(number_str)
-    panel_w = n * digit_width + 50
-    panel_h = 2 * h + 70
+    panel_w = n * digit_width
+    panel_h = 2 * h
 
     digits_svg = [digit_svg(ch, 25 + i * digit_width, 45) for i, ch in enumerate(number_str)]
 
