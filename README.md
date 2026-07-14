@@ -47,7 +47,6 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
-
 <div align="center">
 
 [![GitHub Stats](https://stats-card.pages.dev/user?user=parmesh-kumar-ai&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
@@ -92,6 +91,11 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <div align="left">
 
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/led-counter.svg" alt="Profile Visitors" />
+</p>
 
 
 ---
