@@ -107,21 +107,20 @@ Portfolio showcasing professional journey featuring dark/light mode and a highly
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
+<div align="center">
+
+
 <!-- LEFT PANEL -->
 <td width="48%" valign="top">
 
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parmesh-kumar-ai&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+[![GitHub Stats](https://stats-card.pages.dev/user?user=parmesh-kumar-ai&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top Languages"
     width="400"
   />
@@ -129,12 +128,17 @@ Portfolio showcasing professional journey featuring dark/light mode and a highly
 
 <!-- <p align="center"> -->
  <!--  <img  -->
-   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
+   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
    <!--  alt="GitHub Conributions" -->
   <!--   width="400" -->
 <!--   /> -->
 <!-- </p> -->
 
+![]("https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=swift&background=FFFFFF")<br/>
+![](https://streak-stats.demolab.com?user=parmesh-kumar-ai&stroke=0506A1&background=FFFFFF&ring=0506A1&fire=FFD900&hide_border=false)<br/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=parmesh-kumar-ai&background=FFFFFF&stroke=0506A1&ring=0506A1&fire=FFD900" />
+
+</div>
 </td>
 
 <!-- RIGHT PANEL -->
@@ -153,17 +157,31 @@ Portfolio showcasing professional journey featuring dark/light mode and a highly
 <!-- </div> -->
 
 <div align="left">
-  
-## 🐍 GitHub Contribution Snake
+
+
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/github-contribution-grid-snake.svg">
-</picture>
 
-</p>
+
+### 🧊 3D Contribution Calendar
+<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" />
+
+### 🔥 Streak Stats
+<img width="100%" src="https://streak-stats.demolab.com/?user=parmesh-kumar-ai&background=FFFFFF&stroke=0506A1&ring=0506A1&fire=FFD900" />
+
+### 📈 Activity Graph
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=FFD900&area=true&hide_border=true&radius=16" />
+
+<img width="100%" src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
 
 <div align="left">
   
