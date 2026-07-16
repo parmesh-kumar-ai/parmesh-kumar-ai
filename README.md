@@ -85,8 +85,12 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
 </p>
+</div>
 
----
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://long-snowflake-15b9.vire1478-2.workers.dev/" alt="Profile Visitors" />
+</p>
 
 ## 🧊 3D Contribution Calendar
 
@@ -95,9 +99,6 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" />
 
 </div>
-
----
-
 
 <div align="left">
   
