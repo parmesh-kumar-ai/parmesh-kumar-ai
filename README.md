@@ -81,6 +81,12 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <!-- RIGHT PANEL -->
 <td width="52%" valign="top">
 
+  <!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
+</p>
+</div>
+
 <!-- Profile Views Counter -->
 <p align="center">
 <img src="https://long-snowflake-15b9.vire1478-2.workers.dev/" alt="Profile Visitors" />
