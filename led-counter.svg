@@ -1,0 +1,45 @@
+<svg viewBox="0 0 298 80" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+<defs>
+    <filter id="ledGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    </defs>
+<rect x="0" y="0" width="298" height="80" rx="10" fill="url(#panelGrad)" stroke="#0506A1" stroke-width="2.5"/>
+<rect x="3" y="3" width="292" height="74" rx="7" fill="none" stroke="#FFD900" stroke-width="1" opacity="0.6"/>
+<g filter="url(#ledGlow)">
+  <g>
+    <animate attributeName="opacity" values="1;0.94;1;0.97;1" dur="4s" repeatCount="indefinite"/>
+    <polygon points="26.2,14.0 29.2,11.0 60.8,11.0 63.8,14.0 60.8,17.0 29.2,17.0" fill="#E5E7EB"/>
+<polygon points="25.0,15.2 28.0,18.2 28.0,31.8 25.0,34.8 22.0,31.8 22.0,18.2" fill="#E5E7EB"/>
+<polygon points="65.0,15.2 68.0,18.2 68.0,31.8 65.0,34.8 62.0,31.8 62.0,18.2" fill="#0506A1"/>
+<polygon points="26.2,36.0 29.2,33.0 60.8,33.0 63.8,36.0 60.8,39.0 29.2,39.0" fill="#E5E7EB"/>
+<polygon points="25.0,37.2 28.0,40.2 28.0,53.8 25.0,56.8 22.0,53.8 22.0,40.2" fill="#E5E7EB"/>
+<polygon points="65.0,37.2 68.0,40.2 68.0,53.8 65.0,56.8 62.0,53.8 62.0,40.2" fill="#0506A1"/>
+<polygon points="26.2,58.0 29.2,55.0 60.8,55.0 63.8,58.0 60.8,61.0 29.2,61.0" fill="#E5E7EB"/><polygon points="88.2,14.0 91.2,11.0 122.8,11.0 125.8,14.0 122.8,17.0 91.2,17.0" fill="#E5E7EB"/>
+<polygon points="87.0,15.2 90.0,18.2 90.0,31.8 87.0,34.8 84.0,31.8 84.0,18.2" fill="#E5E7EB"/>
+<polygon points="127.0,15.2 130.0,18.2 130.0,31.8 127.0,34.8 124.0,31.8 124.0,18.2" fill="#0506A1"/>
+<polygon points="88.2,36.0 91.2,33.0 122.8,33.0 125.8,36.0 122.8,39.0 91.2,39.0" fill="#E5E7EB"/>
+<polygon points="87.0,37.2 90.0,40.2 90.0,53.8 87.0,56.8 84.0,53.8 84.0,40.2" fill="#E5E7EB"/>
+<polygon points="127.0,37.2 130.0,40.2 130.0,53.8 127.0,56.8 124.0,53.8 124.0,40.2" fill="#0506A1"/>
+<polygon points="88.2,58.0 91.2,55.0 122.8,55.0 125.8,58.0 122.8,61.0 91.2,61.0" fill="#E5E7EB"/><polygon points="150.2,14.0 153.2,11.0 184.8,11.0 187.8,14.0 184.8,17.0 153.2,17.0" fill="#E5E7EB"/>
+<polygon points="149.0,15.2 152.0,18.2 152.0,31.8 149.0,34.8 146.0,31.8 146.0,18.2" fill="#E5E7EB"/>
+<polygon points="189.0,15.2 192.0,18.2 192.0,31.8 189.0,34.8 186.0,31.8 186.0,18.2" fill="#0506A1"/>
+<polygon points="150.2,36.0 153.2,33.0 184.8,33.0 187.8,36.0 184.8,39.0 153.2,39.0" fill="#E5E7EB"/>
+<polygon points="149.0,37.2 152.0,40.2 152.0,53.8 149.0,56.8 146.0,53.8 146.0,40.2" fill="#E5E7EB"/>
+<polygon points="189.0,37.2 192.0,40.2 192.0,53.8 189.0,56.8 186.0,53.8 186.0,40.2" fill="#0506A1"/>
+<polygon points="150.2,58.0 153.2,55.0 184.8,55.0 187.8,58.0 184.8,61.0 153.2,61.0" fill="#E5E7EB"/><polygon points="212.2,14.0 215.2,11.0 246.8,11.0 249.8,14.0 246.8,17.0 215.2,17.0" fill="#0506A1"/>
+<polygon points="211.0,15.2 214.0,18.2 214.0,31.8 211.0,34.8 208.0,31.8 208.0,18.2" fill="#0506A1"/>
+<polygon points="251.0,15.2 254.0,18.2 254.0,31.8 251.0,34.8 248.0,31.8 248.0,18.2" fill="#0506A1"/>
+<polygon points="212.2,36.0 215.2,33.0 246.8,33.0 249.8,36.0 246.8,39.0 215.2,39.0" fill="#E5E7EB"/>
+<polygon points="211.0,37.2 214.0,40.2 214.0,53.8 211.0,56.8 208.0,53.8 208.0,40.2" fill="#0506A1"/>
+<polygon points="251.0,37.2 254.0,40.2 254.0,53.8 251.0,56.8 248.0,53.8 248.0,40.2" fill="#0506A1"/>
+<polygon points="212.2,58.0 215.2,55.0 246.8,55.0 249.8,58.0 246.8,61.0 215.2,61.0" fill="#0506A1"/>
+  </g>
+</g>
+<text x="149.0" y="74" text-anchor="middle" fill="#4B5563" font-size="9" letter-spacing="2" font-weight="bold">PROFILE VISITORS</text>
+</svg>
