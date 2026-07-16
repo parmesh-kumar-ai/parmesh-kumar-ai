@@ -85,7 +85,6 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
 </p>
-</div>
 
 ---
 
