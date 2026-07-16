@@ -87,18 +87,6 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <img src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/led-counter.svg" alt="Profile Visitors" />
 </p>
 
-
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/parmesh-kumar-ai/parmesh-kumar-ai/output/led-counter.svg" alt="Profile Visitors" />
-<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&style=flat&abbreviated=true" width="1" height="1" alt="" />
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-<img src="https://parmesh-visitor-counter.<your-subdomain>.workers.dev" alt="Profile Visitors" />
-</p>
-
 ---
 
 ## 🧊 3D Contribution Calendar
