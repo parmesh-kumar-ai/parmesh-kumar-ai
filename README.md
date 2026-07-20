@@ -28,7 +28,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.vercel.app/)
 [![ScienceOpen](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
 [![SSRN](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
-[![Notion](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://www.scienceopen.com/user/parmeshkumar)
+[![Notion](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://parmesh-kumar-ai.notion.site/Parmesh-Kumar-2d3c2b872d5580eabcfcdc6762079dcf)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KumarParmesh)
 [![Tumblr](https://img.shields.io/badge/Tumblr-616161?style=for-the-badge&logo=tumblr&logoColor=white)](https://www.tumblr.com/blog/parmesh-iitkgp)
 [![Reddit](https://img.shields.io/badge/Reddit-F76300?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/parmesh-kumar-ai/)
