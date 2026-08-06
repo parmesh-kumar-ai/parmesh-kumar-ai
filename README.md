@@ -63,6 +63,14 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
   />
 </p>
 
+<p align="center">
+  <img height="400"& width="320" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&layout=donut-vertical&langs_count=6&hide_border=false&bg_color=ffffff&title_color=58A6FF&text_color=333333&icon_color=58A6FF&border_radius=5&cache_seconds=1" />
+</p>
+
+<p align="center">
+  <img height="250" width="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&layout=donut&langs_count=5&hide_border=false&bg_color=ffffff&title_color=58A6FF&text_color=333333&icon_color=58A6FF&border_radius=5&cache_seconds=1" />
+</p>
+
 <!-- <p align="center"> -->
  <!--  <img  -->
    <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
