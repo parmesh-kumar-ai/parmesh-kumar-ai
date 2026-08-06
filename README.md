@@ -57,7 +57,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&layout=compact&cache_seconds=1" 
     alt="Top Languages"
     width="400"
   />
