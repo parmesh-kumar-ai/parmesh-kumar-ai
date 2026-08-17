@@ -10,39 +10,40 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      # Use the latest version of checkout (v4)
+      # Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
       
-      # Use the latest version of setup-python (v5)
+      # Setup Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'  # Specify a stable Python version
+          python-version: '3.11'
       
       # Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pillow requests  # Add any other dependencies you need
+          pip install pillow requests
       
-      # Run your LED counter generation script
+      # Debug - Check directory structure
+      - name: Debug - List directory contents
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Directory contents:"
+          ls -la
+          echo "Scripts directory:"
+          ls -la scripts/ || echo "scripts/ directory not found"
+      
+      # Generate LED Counter SVG
       - name: Generate LED Counter SVG
         run: |
-          python scripts/generate_led_counter.py  # Adjust path to your script
-
-          - name: Debug - List directory contents
-  run: |
-    echo "Current directory:"
-    pwd
-    echo "Directory contents:"
-    ls -la
-    echo "Scripts directory:"
-    ls -la scripts/ || echo "scripts/ directory not found"
+          python scripts/generate_led_counter.py
       
-      # Commit and push changes (if there are any)
+      # Commit and push changes
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
