@@ -32,6 +32,15 @@ jobs:
       - name: Generate LED Counter SVG
         run: |
           python scripts/generate_led_counter.py  # Adjust path to your script
+
+          - name: Debug - List directory contents
+  run: |
+    echo "Current directory:"
+    pwd
+    echo "Directory contents:"
+    ls -la
+    echo "Scripts directory:"
+    ls -la scripts/ || echo "scripts/ directory not found"
       
       # Commit and push changes (if there are any)
       - name: Commit changes
